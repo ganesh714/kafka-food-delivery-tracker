@@ -1,0 +1,23 @@
+{
+  "restaurants": [
+    "Pizza Place", "Taco Town", "Burger Barn", "Sushi Station", "Noodle Nest",
+    "Curry Corner", "Salad Spot", "Kebab Kingdom", "Waffle World", "Pancake Palace",
+    "Steakhouse Supreme", "Seafood Shack", "Vegan Valley", "BBQ Bros", "Wrap it Up",
+    "Sandwich Shop", "Fried Chicken Fiesta", "Pho Phanatic", "Dim Sum Delight", "Gelato Galore"
+  ],
+  "customers": [
+    "Alice", "Bob", "Charlie", "David", "Eve", "Frank", "Grace", "Heidi", "Ivan", "Judy",
+    "Mallory", "Nina", "Oscar", "Peggy", "Romeo", "Sybil", "Trent", "Victor", "Walter", "Zoe",
+    "Liam", "Emma", "Noah", "Olivia", "William", "Ava", "James", "Isabella", "Oliver", "Sophia"
+  ],
+  "items": [
+    "Margherita Pizza", "Pepperoni Pizza", "Cheese Burger", "Veggie Burger", "California Roll",
+    "Spicy Tuna Roll", "Pad Thai", "Green Curry", "Chicken Tikka Masala", "Caesar Salad",
+    "Greek Salad", "Beef Kebab", "Chicken Shawarma", "Belgian Waffle", "Buttermilk Pancakes",
+    "Ribeye Steak", "Grilled Salmon", "Vegan Bowl", "Pulled Pork Sandwich", "Chicken Caesar Wrap",
+    "Club Sandwich", "Fried Chicken Bucket", "Beef Pho", "Pork Dumplings", "Vanilla Gelato",
+    "Chocolate Brownie", "Garlic Bread", "French Fries", "Onion Rings", "Spring Rolls",
+    "Miso Soup", "Tom Yum Soup", "Naan Bread", "Samosa", "Edamame",
+    "Tiramisu", "Cheesecake", "Cola", "Lemonade", "Iced Tea"
+  ]
+}
